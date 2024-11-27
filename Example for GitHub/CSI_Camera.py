@@ -1,5 +1,11 @@
-# this is raspberry pi camera configuration codes used in the project
-# this is adapted from https://github.com/JetsonHacksNano/CSI-Camera/blob/master/dual_camera.py
+# Raspberry Pi camera configuration used in the project
+
+# Adapted from https://github.com/JetsonHacksNano/CSI-Camera/blob/master/dual_camera.py
+
+# Developed by Yuntao Li, OMNI Lab, Northeastern University
+
+# For further information, please reach out to: li.yunt@northeastern.edu
+
 
 import cv2
 import threading
