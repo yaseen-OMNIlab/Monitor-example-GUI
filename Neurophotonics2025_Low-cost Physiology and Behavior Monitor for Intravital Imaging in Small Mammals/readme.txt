@@ -9,7 +9,7 @@
 * | Info        :   For uploading to GitHub
 ******************************************************************************
 Correlation analysis_MATLAB:
-corr_data.mat: the dataset including 20 OISI samples for correlation analysis
+corr_data.mat: the dataset including 20 OISI and pupil diameter samples for correlation analysis
 OISI_Correlation.m: The code for calculating cross correlation between delta_R/R and Pupil diameter
 
 Data acquisition_Python:
