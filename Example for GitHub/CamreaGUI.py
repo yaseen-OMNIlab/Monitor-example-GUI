@@ -4,8 +4,6 @@
 
 # For further information, please reach out to: li.yunt@northeastern.edu
 
-## convert the images to video: ffmpeg -framerate 10 -pattern_type glob -i '/home/omni/Desktop/CameraGUItest/2023-08-10_10:23:45/*.tif' -c:v h264_nvmpi -r 11 -pix_fmt yuv420p output.mp4
-
 import tkinter as tk
 from tkinter import *
 from datetime import datetime
