@@ -1,5 +1,9 @@
 # this is ADS1115 configuration codes used in the project
 
+# Developed by Yuntao Li, OMNI Lab, Northeastern University
+
+# For further information, please reach out to: li.yunt@northeastern.edu
+
 import smbus
 import time
 
