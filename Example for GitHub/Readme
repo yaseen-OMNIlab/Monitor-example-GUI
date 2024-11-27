@@ -2,3 +2,4 @@ This file includes:
 1. CameraGUI.py that can simply open one camera to record pupil and review the frames after DAQ
 2. CSI_Camera.py and ADS1115.py are the functions used in CameraGUI.py
 3. Folder 2024-11-26_17_17_48 has a 1-second example of data collected by CameraGUI.py
+4. GUI screenshot
